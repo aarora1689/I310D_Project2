@@ -14,3 +14,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTH
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
 OTHER DEALINGS IN THE SOFTWARE.
 
+
+The purpose of this project was to analyze the metrics that Perspective API uses to determine the toxicity of a comment. The attribute of the comment chosen for analysis was length, with a hypothesis that the longer a comemnt is, the more likely to be toxic it is. The results of testing showed the opposite to be true: shorter comments tended to be more toxic.
